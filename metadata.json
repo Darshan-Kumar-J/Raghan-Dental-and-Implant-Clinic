@@ -1,0 +1,6 @@
+{
+  "name": "Raghan Dental and Implant Care",
+  "description": "Private dental clinic and periodontics center in Subramanyanagar, Bengaluru led by Dr. Deepthi K (BDS, MDS – Periodontics). Online appointment booking, treatment guides, and clinic management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
